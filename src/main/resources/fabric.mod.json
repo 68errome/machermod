@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "farmbot",
+  "version": "${version}",
+  "name": "Farm Bot",
+  "description": "Läuft automatisch durch eine lange Farm: D + Linksklick halten, dreht sich bei Bahnwechsel um 180 Grad und isst bei Hunger.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "de.farmbot.FarmBotClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.1",
+    "minecraft": "26.1.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

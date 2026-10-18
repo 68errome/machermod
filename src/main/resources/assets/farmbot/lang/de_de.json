@@ -1,0 +1,7 @@
+{
+  "key.category.farmbot.main": "Farm Bot",
+  "key.farmbot.toggle": "Farm Bot an/aus",
+  "farmbot.on": "Farm Bot: AN",
+  "farmbot.off": "Farm Bot: AUS",
+  "farmbot.no_food": "Farm Bot: AUS (kein Essen in Slot 1)"
+}

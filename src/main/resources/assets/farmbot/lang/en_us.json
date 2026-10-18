@@ -1,0 +1,7 @@
+{
+  "key.category.farmbot.main": "Farm Bot",
+  "key.farmbot.toggle": "Toggle Farm Bot",
+  "farmbot.on": "Farm Bot: ON",
+  "farmbot.off": "Farm Bot: OFF",
+  "farmbot.no_food": "Farm Bot: OFF (no food in slot 1)"
+}
